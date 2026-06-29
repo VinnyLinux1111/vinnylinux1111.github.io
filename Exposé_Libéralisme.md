@@ -2,10 +2,12 @@
 
 # Table des matières
 
-* [1. Introduction](#1-Introduction)
+* * [1. Introduction](#1-Introduction)
+* * [2. Configuration Options](#2-configuration-options)
+* [3. Frequently Asked Questions](#3-frequently-asked-questions)
 
 
-# Introduction
+## Introduction
 
 Bonjour à vous, cher lecteur/lectrice ! Je me nomme Vincent et je me présente ici comme un homme averti et vertueux en exploration en matière de philosophie, économique et politique. Je tente du mieux que je peux afin de répondre à plusieurs de mes questionnements internes et de communiquer mes observations, parfois élargies, vis-à-vis des sujets discutés dans mes articles. Voilà ! Bonne lecture ! 
 

@@ -5,6 +5,8 @@
 * [1. Introduction](#1-Introduction)
 * [2. Qu'est-ce que le libéralisme ?](#2-quest-ce-que-le-libéralisme-)
 * * [2.1 Le libéralisme écononomique](#21-le-libéralisme-économique)
+* [3. Discussion](#3-discussion)
+* [4. Conclusion](#4-conclusion)
 
 
 ## Introduction

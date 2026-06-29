@@ -1,4 +1,6 @@
-# MES OBSERVATIONS SUR LE LIBÉRALISME
+---
+title: MES OBSERVATIONS SUR LE LIBÉRALISME
+---
 
 # Table des matières
 

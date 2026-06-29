@@ -8,6 +8,7 @@
 * [3. Au Québec et au Canada (et ailleurs)](#au-québec-et-au-canada-et-ailleurs)
 * [4. Discussion](#discussion)
 * [5. Conclusion](#conclusion)
+* [6. Références](#références)
 
 
 ## Introduction
@@ -66,6 +67,8 @@ Cependant, tout n'est pas rose dans la question du libéralisme, mais je ne croi
 ## Conclusion 
 
 Donc, il va de soi qu'il y a des bons côtés et des côtés moins roses dans la question du libéralisme. Pour employer des mots justes et positifs, le libéralisme a, jusqu'ici, amené une meilleure qualité de vie globale chez les gens comparativement à la qualité de vie dans le moyen âge, selon les textes historiques. Suite à nos observations, il y a notamment et évidemment place à de l'amélioration, par exemple, si on vise un meilleur équilibre dans tous les aspects de la vie et aussi à mieux définir le concept de richesse, soit plus globalement que par une dimension économique du terme.
+
+# Références
 
 [¹] [Wikipédia](https://fr.wikipedia.org/wiki/Lib%C3%A9ralisme)
 

@@ -2,12 +2,12 @@
 
 # Table des matières
 
-* [1. Introduction](#1-Introduction)
-* [2. Qu'est-ce que le libéralisme ?](#2-quest-ce-que-le-libéralisme-)
-* * [2.1 Le libéralisme écononomique](#21-le-libéralisme-économique)
-* [3. Au Québec et au Canada (et ailleurs)](#3-au-québec-et-au-canada-et-ailleurs)
-* [4. Discussion](#4-discussion)
-* [5. Conclusion](#5-conclusion)
+* [1. Introduction](#Introduction)
+* [2. Qu'est-ce que le libéralisme ?](#quest-ce-que-le-libéralisme-)
+* * [2.1 Le libéralisme écononomique](#le-libéralisme-économique)
+* [3. Au Québec et au Canada (et ailleurs)](#au-québec-et-au-canada-et-ailleurs)
+* [4. Discussion](#discussion)
+* [5. Conclusion](#conclusion)
 
 
 ## Introduction

@@ -2,8 +2,8 @@
 
 # Table des matières
 
-* * [1. Introduction](#1-Introduction)
-* * [2. Configuration Options](#2-configuration-options)
+* [1. Introduction](#1-Introduction)
+* [2. Qu'est-ce que le libéralisme ?](#2-qu'est-ce-que-le-libéralisme)
 * [3. Frequently Asked Questions](#3-frequently-asked-questions)
 
 

@@ -4,13 +4,13 @@ title: MES OBSERVATIONS SUR LE LIBÉRALISME
 
 # Table des matières
 
-* [1. Introduction](#Introduction)
-* [2. Qu'est-ce que le libéralisme ?](#quest-ce-que-le-libéralisme-)
-  * [2.1 Le libéralisme écononomique](#le-libéralisme-économique)
-* [3. Au Québec et au Canada (et ailleurs)](#au-québec-et-au-canada-et-ailleurs)
-* [4. Discussion](#discussion)
-* [5. Conclusion](#conclusion)
-* [6. Références](#références)
+* [Introduction](#Introduction)
+* [Qu'est-ce que le libéralisme ?](#quest-ce-que-le-libéralisme-)
+  * [Le libéralisme écononomique](#le-libéralisme-économique)
+* [Au Québec et au Canada (et ailleurs)](#au-québec-et-au-canada-et-ailleurs)
+* [Discussion](#discussion)
+* [Conclusion](#conclusion)
+* [Références](#références)
 
 
 ## Introduction

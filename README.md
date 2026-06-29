@@ -1,4 +1,6 @@
-Bienvenue sur la page Mes Observations de Vinny1111
+---
+title: Bienvenue sur la page Mes Observations de Vinny1111
+---
 
 Some text here
 

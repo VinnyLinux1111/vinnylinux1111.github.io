@@ -16,4 +16,4 @@ Some text here
 2. dog
 3. lion
 
-[Click Here](exposé_libéralisme.md)
+[Click Here](exposé-libéralisme.md)

@@ -37,7 +37,7 @@ Alors, voici quelques détails qui résument les idées de John Locke concernant
 
  - Les citoyens ont la liberté de choisir leurs dirigeants par une période d'élection libre, et l'État n'a aucun droit de révoquer ses droits. 
 
- En somme, dans le libéralisme classique (de John Locke), l'État doit intervenir le moins possible dans la société, uniquement pour fixer les règles de base (par exemple, la sécurité policière, la justice et la propriété privée) et de protéger les libertés individuelles, comme par une Charte des Droits et Libertés de la Personne. Le peuple peut ainsi se révolter lorsque le gouvernement échoue à son rôle et à ses responsabilités. Le libéralisme prône aussi la responsabilité envers la société et la solidarité. **C'est donc d'équilibrer la liberté individuelle avec la liberté sociale**. 
+ En somme, dans le libéralisme classique (de John Locke), l'État doit intervenir le moins possible dans la société, uniquement pour fixer les règles de base (par exemple, la sécurité policière, la justice et la propriété privée) et de protéger les libertés individuelles, comme par une Charte des Droits et Libertés de la Personne. Le peuple peut ainsi se révolter lorsque le gouvernement échoue à son rôle et à ses responsabilités. Le libéralisme prône aussi la responsabilité envers la société et la solidarité. C'est donc d'équilibrer la liberté individuelle avec la liberté sociale. 
 
  ### Le libéralisme économique
 

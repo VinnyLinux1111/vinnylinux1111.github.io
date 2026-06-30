@@ -12,12 +12,15 @@ title: MES OBSERVATIONS SUR LE LIBÉRALISME
 * [Conclusion](#conclusion)
 * [Références](#références)
 
+<details>
+<summary>ℹ️ Click to expand more technical details</summary>
 
-> [!NOTE]
-> Useful information that users should know, even when skimming text.
+Here is the hidden information panel. You can include:
+* Bullet points
+* Error logs
+* Extra setup context
 
-> [!TIP]
-> Helpful advice for doing things better or more easily.
+</details>
 
 ## Introduction
 

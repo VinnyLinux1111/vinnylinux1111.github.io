@@ -80,9 +80,9 @@ Donc, il va de soi qu'il y a des bons côtés et des côtés moins roses dans la
 
 [⁴] [Le libéralisme expliqué simplement (politique et économique - Youtube) ](https://www.youtube.com/watch?v=dn5cKebl4w4)
 
-[⁵] [La “main invisible” chez Adam Smith, c’est quoi ?] (https://www.philomag.com/articles/la-main-invisible-chez-adam-smith-cest-quoi)
+[⁵] [La “main invisible” chez Adam Smith, c’est quoi ?](https://www.philomag.com/articles/la-main-invisible-chez-adam-smith-cest-quoi)
 
-[⁶] [Il a côtoyé l’élite mondiale… ET IL DIT TOUT ! 🔥 👉 Felix Marquardt @TheBlackElephantExperience] (https://www.youtube.com/watch?v=vkSw4Y1qOd0)
+[⁶] [Il a côtoyé l’élite mondiale… ET IL DIT TOUT ! 🔥 👉 Felix Marquardt @TheBlackElephantExperience](https://www.youtube.com/watch?v=vkSw4Y1qOd0)
 
 
 

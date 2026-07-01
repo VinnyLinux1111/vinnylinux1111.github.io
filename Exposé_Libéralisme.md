@@ -78,7 +78,7 @@ Donc, il va de soi qu'il y a des bons côtés et des côtés moins roses dans la
 
 [³] [Qu'est-ce que le libéralisme - Youtube](https://www.youtube.com/watch?v=WfRt-9tEBBU)
 
-[⁴] [Le libéralisme expliqué simplement (politique et économique - Youtube)](https://www.youtube.com/watch?v=dn5cKebl4w4)
+[⁴] [Le libéralisme expliqué simplement (politique et économique - Youtube) ](https://www.youtube.com/watch?v=dn5cKebl4w4)
 
 [⁵] [La “main invisible” chez Adam Smith, c’est quoi ?] (https://www.philomag.com/articles/la-main-invisible-chez-adam-smith-cest-quoi)
 

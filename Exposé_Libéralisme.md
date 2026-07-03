@@ -55,6 +55,7 @@ Dans le libéralisme économique et politique, ce sont les individus qui prennen
   <figcaption>Figure 1: Résumé pour le libéralisme économique. SOURCE : <a href="TARGET_URL">https://www.youtube.com/watch?v=dn5cKebl4w4</a></figcaption>
 </figure>
 
+
 https://ibb.co/LDcHZJTh
 https://ibb.co/xK6ZFbBk
 

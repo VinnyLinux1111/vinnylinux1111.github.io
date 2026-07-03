@@ -96,6 +96,8 @@ Donc, il va de soi qu'il y a des bons côtés et des côtés moins roses dans la
 
 [⁶] [Il a côtoyé l’élite mondiale… ET IL DIT TOUT ! 🔥 👉 Felix Marquardt @TheBlackElephantExperience](https://www.youtube.com/watch?v=vkSw4Y1qOd0)
 
+[⁷] [Le mercantilisme | Histoire | Alloprof](https://www.youtube.com/watch?v=H7kSa5IqdFE)
+
 
 
 

@@ -40,7 +40,7 @@ Alors, voici quelques détails qui résument les idées de John Locke concernant
 
 <figure>
   <a href="TARGET_URL"><img src="images/résumé_libéralisme_politique.png" alt="Résumé libéralisme politique"></a>
-  <figcaption>Figure 1: Résumé pour le libéralisme politique, SOURCE : [⁴] <a href="https://www.youtube.com/watch?v=dn5cKebl4w4">https://www.youtube.com/watch?v=dn5cKebl4w4</a></figcaption>
+  <figcaption>Figure 1: Résumé pour le libéralisme politique, SOURCE : [⁴] <a href="https://www.youtube.com/watch?v=dn5cKebl4w4" target="_blank">https://www.youtube.com/watch?v=dn5cKebl4w4</a></figcaption>
 </figure>
 
 ### Le libéralisme économique

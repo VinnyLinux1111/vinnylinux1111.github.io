@@ -57,7 +57,7 @@ Dans le libéralisme économique et politique, ce sont les individus qui prennen
 
 <figure>
   <a href="TARGET_URL"><img src="images/résumé_libéralisme_économique.png" alt="Résumé libéralisme économique"></a>
-  <figcaption>Figure 2: Résumé pour le libéralisme économique, SOURCE : [⁴] <a href="TARGET_URL">https://www.youtube.com/watch?v=dn5cKebl4w4</a></figcaption>
+  <figcaption>Figure 2: Résumé pour le libéralisme économique, SOURCE : [⁴] <a href="https://www.youtube.com/watch?v=dn5cKebl4w4" target="_blank">https://www.youtube.com/watch?v=dn5cKebl4w4</a></figcaption>
 </figure>
 
 ## Au Québec et au Canada (et ailleurs)

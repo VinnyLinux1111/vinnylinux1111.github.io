@@ -38,6 +38,11 @@ Alors, voici quelques détails qui résument les idées de John Locke concernant
 
  En somme, dans le libéralisme classique (de John Locke), l'État doit intervenir le moins possible dans la société, uniquement pour fixer les règles de base (par exemple, la sécurité policière, la justice et la propriété privée) et de protéger les libertés individuelles, comme par une Charte des Droits et Libertés de la Personne. Le peuple peut ainsi se révolter lorsque le gouvernement échoue à son rôle et à ses responsabilités. Le libéralisme prône aussi la responsabilité envers la société et la solidarité. C'est donc d'équilibrer la liberté individuelle avec la liberté sociale. 
 
+<figure>
+  <a href="TARGET_URL"><img src="images/résumé_libéralisme_politique.png" alt="Résumé libéralisme politique"></a>
+  <figcaption>Figure 1: Résumé pour le libéralisme politique, SOURCE : <a href="TARGET_URL">[⁴]https://www.youtube.com/watch?v=dn5cKebl4w4</a></figcaption>
+</figure>
+
 ### Le libéralisme économique
 
 À travers les siècles, les hommes ont cherché à savoir comment se créer de la richesse et comment la définir. Voici comment était pensée libéraliste du 18e siècle. 
@@ -52,12 +57,8 @@ Dans le libéralisme économique et politique, ce sont les individus qui prennen
 
 <figure>
   <a href="TARGET_URL"><img src="images/résumé_libéralisme_économique.png" alt="Résumé libéralisme économique"></a>
-  <figcaption>Figure 1: Résumé pour le libéralisme économique. SOURCE : <a href="TARGET_URL">https://www.youtube.com/watch?v=dn5cKebl4w4</a></figcaption>
+  <figcaption>Figure 2: Résumé pour le libéralisme économique, SOURCE : <a href="TARGET_URL">[⁴]https://www.youtube.com/watch?v=dn5cKebl4w4</a></figcaption>
 </figure>
-
-
-https://ibb.co/LDcHZJTh
-https://ibb.co/xK6ZFbBk
 
 ## Au Québec et au Canada (et ailleurs)
 

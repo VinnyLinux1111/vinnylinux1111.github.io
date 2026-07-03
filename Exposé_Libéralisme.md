@@ -51,8 +51,8 @@ Le philosophe économique britannique, Adam Smith, s'était servi de ce qui exis
 Dans le libéralisme économique et politique, ce sont les individus qui prennent les décisions, pas l'État. De plus, ce système encourage la compétition entre les individus, tant dans le domaine des échanges commerciaux que dans le domaine politique. Ça va dans la même veine que le libéralisme, expliqué plus haut, qu'il faut une très faible assistance de l'État dans les systèmes économiques.[⁴]
 
 <figure>
-  <a href="TARGET_URL"><img src="images/résumé_libéralisme_économique.png" alt="Alt text"></a>
-  <figcaption><a href="TARGET_URL">This is the clickable caption</a></figcaption>
+  <a href="TARGET_URL"><img src="images/résumé_libéralisme_économique.png" alt="Résumé libéralisme économique"></a>
+  <figcaption>Figure 1: Résumé pour le libéralisme économique. SOURCE : <a href="TARGET_URL">[This is the centered clickable caption](https://www.youtube.com/watch?v=dn5cKebl4w4)</a></figcaption>
 </figure>
 
 https://ibb.co/LDcHZJTh

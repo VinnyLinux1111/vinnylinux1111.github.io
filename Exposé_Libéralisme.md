@@ -40,7 +40,7 @@ Alors, voici quelques détails qui résument les idées de John Locke concernant
 
 <figure>
   <a href="TARGET_URL"><img src="images/résumé_libéralisme_politique.png" alt="Résumé libéralisme politique"></a>
-  <figcaption>Figure 1: Résumé pour le libéralisme politique, SOURCE : <a href="TARGET_URL">[⁴]https://www.youtube.com/watch?v=dn5cKebl4w4</a></figcaption>
+  <figcaption>Figure 1: Résumé pour le libéralisme politique, SOURCE : [⁴] <a href="TARGET_URL">https://www.youtube.com/watch?v=dn5cKebl4w4</a></figcaption>
 </figure>
 
 ### Le libéralisme économique
@@ -57,7 +57,7 @@ Dans le libéralisme économique et politique, ce sont les individus qui prennen
 
 <figure>
   <a href="TARGET_URL"><img src="images/résumé_libéralisme_économique.png" alt="Résumé libéralisme économique"></a>
-  <figcaption>Figure 2: Résumé pour le libéralisme économique, SOURCE : <a href="TARGET_URL">[⁴]https://www.youtube.com/watch?v=dn5cKebl4w4</a></figcaption>
+  <figcaption>Figure 2: Résumé pour le libéralisme économique, SOURCE : [⁴] <a href="TARGET_URL">https://www.youtube.com/watch?v=dn5cKebl4w4</a></figcaption>
 </figure>
 
 ## Au Québec et au Canada (et ailleurs)

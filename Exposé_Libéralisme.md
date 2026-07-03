@@ -40,13 +40,23 @@ Alors, voici quelques détails qui résument les idées de John Locke concernant
 
 ### Le libéralisme économique
 
- À travers les siècles, les hommes ont cherché à savoir comment se créer de la richesse et comment la définir. Voici comment était pensée libéraliste du 18e siècle. 
+À travers les siècles, les hommes ont cherché à savoir comment se créer de la richesse et comment la définir. Voici comment était pensée libéraliste du 18e siècle. 
 
- >Au siècle des Lumières (au 18e siècle), l'économie anglaise décolle en voyant **son industrie prospérer grâce au capitalisme industriel et aux échanges.** [...] À la fin de ce siècle, plusieurs économistes théorisaient l'idée qu'un lien très fort unissait liberté et prospérité.[³]
+>Au siècle des Lumières (au 18e siècle), l'économie anglaise décolle en voyant **son industrie prospérer grâce au capitalisme industriel et aux échanges.** [...] À la fin de ce siècle, plusieurs économistes théorisaient l'idée qu'un lien très fort unissait liberté et prospérité.[³]
  
- Déjà, à cette époque, les historiens racontent qu'il y avait un système appelé le libre marché, soit un système économique où les échanges et les prix sont déterminés par le consentement mutuel et la loi de l'offre et de la demande, sans intervention coercitive de l'État. [⁴] Le philosophe économique britannique, Adam Smith, s'était servi de ce qui existait et y avait dressé les grandes lignes et les bénéfices de cet exercice du libre marché, qui est, selon lui, supporté par la notion du libéralisme économique. L'offre et la demande est ce système qui "guide" la production et les échanges commerciaux. Adam Smith soutient les principes de la propriété privée, de la concurrence et de la liberté d'entreprendre, considérant que ça favorise l'innovation et la prospérité. C'est donc un système capitaliste dont la recherche du profit et de l'intérêt personnel sont la "base du progrès". [⁴]
+Au 16e et 17e siècle, en Europe, il y avait un système économique appelé le mercantilisme, soit un système économique dont la richesse et la puissance d'un État se mesure à la quantité d'or et de monnaie qu'il possède, donc plus un État a de métaux précieux, plus il est puissant.[⁷]
 
-Dans le libéralisme économique et politique, ce sont les individus qui prennent les décisions, pas l'État. De plus, ce système encourage la compétition entre les individus, tant dans le domaine des échanges commerciaux que dans le domaine politique. [⁴]
+Le philosophe économique britannique, Adam Smith, s'était servi de ce qui existait et y avait dressé les grandes lignes et les bénéfices de cet ancien exercice. C'était à la fois pour l'améliorer selon sa philosophie et pour ainsi définir sa perception du libéralisme au niveau économique. Une nouvelle notion d'Adam Smith, soit le libre marché, est un système économique dans lequel l'offre et la demande "guide" la production et les échanges commerciaux. Adam Smith soutient, dans le cadre de sa philosophie, les principes de la propriété privée, de la concurrence et de la liberté d'entreprendre, considérant que ça favorise l'innovation et la prospérité. **C'est donc un système capitaliste dont la recherche du profit et de l'intérêt personnel sont la "base du progrès".** [⁴]
+
+Dans le libéralisme économique et politique, ce sont les individus qui prennent les décisions, pas l'État. De plus, ce système encourage la compétition entre les individus, tant dans le domaine des échanges commerciaux que dans le domaine politique. Ça va dans la même veine que le libéralisme, expliqué plus haut, qu'il faut une très faible assistance de l'État dans les systèmes économiques.[⁴]
+
+<figure>
+  <img src="https://ibb.co/LDcHZJTh" alt="Libéralisme économique">
+  <figcaption>This is your image caption.</figcaption>
+</figure>
+
+https://ibb.co/LDcHZJTh
+https://ibb.co/xK6ZFbBk
 
 ## Au Québec et au Canada (et ailleurs)
 

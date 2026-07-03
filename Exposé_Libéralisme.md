@@ -52,7 +52,7 @@ Dans le libéralisme économique et politique, ce sont les individus qui prennen
 
 <figure>
   <a href="TARGET_URL"><img src="images/résumé_libéralisme_économique.png" alt="Résumé libéralisme économique"></a>
-  <figcaption>Figure 1: Résumé pour le libéralisme économique. SOURCE : <a href="TARGET_URL">[This is the centered clickable caption](https://www.youtube.com/watch?v=dn5cKebl4w4)</a></figcaption>
+  <figcaption>Figure 1: Résumé pour le libéralisme économique. SOURCE : <a href="TARGET_URL">[[This is the centered clickable caption](https://www.youtube.com/watch?v=dn5cKebl4w4)](https://www.youtube.com/watch?v=dn5cKebl4w4)</a></figcaption>
 </figure>
 
 https://ibb.co/LDcHZJTh

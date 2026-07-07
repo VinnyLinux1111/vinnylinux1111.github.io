@@ -23,17 +23,7 @@ author:
   avatar: "/assets/images/bio-photo.jpg" # Path to your profile picture
   bio: "Developer, writer, and tech enthusiast."
   location: "Qc, Canada"
-  <!-- links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:your.email@example.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com"-->
-
+ 
 # 5. Required Plugins
 plugins:
   - jekyll-include-cache

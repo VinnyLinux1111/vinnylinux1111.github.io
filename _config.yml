@@ -7,46 +7,4 @@ theme: "jekyll-theme-cayman" # Uncomment instead if using local Ruby Gem
 # Options: "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # minimal_mistakes_skin: "default"
 
-# 3. Site Settings
-locale: "fr-CA"
-title: "My Awesome Site"
-title_separator: "-"
-subtitle: "A personal portfolio and blog"
-name: "VinnyLinux1111"
-description: "An amazing website built with Minimal Mistakes."
-url: "https://vinnylinux1111.github.io" # Your production URL
-baseurl: "" # Set to "/repository-name" if not using a user/organization page
 
-# 4. Site Author Profile (Sidebar details)
-author:
-  name: "Your Name"
-  avatar: "/assets/images/bio-photo.jpg" # Path to your profile picture
-  bio: "Developer, writer, and tech enthusiast."
-  location: "Qc, Canada"
- 
-# 5. Required Plugins
-plugins:
-  - jekyll-include-cache
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-
-# 6. Front Matter Defaults (Applies settings to all posts/pages globally)
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "single"          # Minimal Mistakes uses "single" instead of "post"
-      author_profile: true     # Displays your sidebar profile on all posts
-      read_time: true
-      comments: true
-      share: true
-  # _pages
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "single"
-      author_profile: true

@@ -1,3 +1,65 @@
-theme: jekyll-theme-minimal-mistakes
 title: "Bienvenue sur la page Mes Observations de Vinny1111"
 show_downloads: false
+
+# 1. Theme Activation (Choose Gem or Remote Theme)
+# Use remote_theme if hosting directly on GitHub Pages
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
+# theme: "minimal-mistakes-jekyll" # Uncomment instead if using local Ruby Gem
+
+# 2. Appearance Skin
+# Options: "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "default"
+
+# 3. Site Settings
+locale: "en-US"
+title: "My Awesome Site"
+title_separator: "-"
+subtitle: "A personal portfolio and blog"
+name: "Your Name"
+description: "An amazing website built with Minimal Mistakes."
+url: "https://yourusername.github.io" # Your production URL
+baseurl: "" # Set to "/repository-name" if not using a user/organization page
+
+# 4. Site Author Profile (Sidebar details)
+author:
+  name: "Your Name"
+  avatar: "/assets/images/bio-photo.jpg" # Path to your profile picture
+  bio: "Developer, writer, and tech enthusiast."
+  location: "New York, USA"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:your.email@example.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com"
+
+# 5. Required Plugins
+plugins:
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+
+# 6. Front Matter Defaults (Applies settings to all posts/pages globally)
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"          # Minimal Mistakes uses "single" instead of "post"
+      author_profile: true     # Displays your sidebar profile on all posts
+      read_time: true
+      comments: true
+      share: true
+  # _pages
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: true

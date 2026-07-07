@@ -1,6 +1,6 @@
-Bienvenue sur la page Mes Observations de Vinny1111
+title: Bienvenue sur la page Mes Observations de Vinny1111
 
-Projet / Mission : Mes Observations sur des concepts politiques, économiques et philosophiques
+# Projet / Mission : Mes Observations sur des concepts politiques, économiques et philosophiques
 
 1- Libéralisme
 [Lien vers l'article sur mes observations du libéralisme](Exposé_Libéralisme.md)

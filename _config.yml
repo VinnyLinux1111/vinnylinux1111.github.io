@@ -3,7 +3,8 @@
 # remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 
 theme: "jekyll-theme-cayman" # Uncomment instead if using local Ruby Gem
-title: "Bienvenue sur la page de VinnyLinux1111"
+title: Bienvenue sur la page de VinnyLinux1111
+layout: default
 
 # 2. Appearance Skin
 # Options: "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"

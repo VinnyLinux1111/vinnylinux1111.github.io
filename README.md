@@ -1,19 +1,6 @@
 Bienvenue sur la page Mes Observations de Vinny1111
 
-Some text here
+Projet / Mission : Mes Observations sur des concepts politiques, économiques et philosophiques
 
-## Fruits
-
-* apple
-* banana
-* peach
-
----
-
-## Animals
-
-1. cat
-2. dog
-3. lion
-
-[Click Here](Exposé_Libéralisme.md)
+1- Libéralisme
+[Lien vers l'article sur mes observations du libéralisme](Exposé_Libéralisme.md)

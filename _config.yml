@@ -1,7 +1,7 @@
 # 1. Theme Activation (Choose Gem or Remote Theme)
 # Use remote_theme if hosting directly on GitHub Pages
 # remote_theme: "mmistakes/minimal-mistakes@4.28.0"
-theme: "bulma" # Uncomment instead if using local Ruby Gem
+theme: "jekyll-theme-bulma" # Uncomment instead if using local Ruby Gem
 
 # 2. Appearance Skin
 # Options: "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"

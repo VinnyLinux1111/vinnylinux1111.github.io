@@ -12,5 +12,6 @@ theme: jekyll-theme-modernist # Uncomment instead if using local Ruby Gem
 # Options: "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # minimal_mistakes_skin: "default"
 
-description: "es"
+github:
+  is_project_page: false
 

@@ -2,9 +2,9 @@
 # Use remote_theme if hosting directly on GitHub Pages
 # remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 
-title: "Bienvenue sur le site de Vinny1111
-description: Modernist is a theme for GitHub Pages.
-show_downloads: false
+title: "Bienvenue sur le site de Vinny1111"
+# description: Modernist is a theme for GitHub Pages.
+show_downloads: False
 theme: jekyll-theme-modernist # Uncomment instead if using local Ruby Gem
 
 # 2. Appearance Skin

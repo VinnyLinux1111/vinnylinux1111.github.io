@@ -1,6 +1,7 @@
 # 1. Theme Activation (Choose Gem or Remote Theme)
 # Use remote_theme if hosting directly on GitHub Pages
 # remote_theme: "mmistakes/minimal-mistakes@4.28.0"
+title: "Bienvenue sur la page de VinnyLinux1111"
 theme: "jekyll-theme-cayman" # Uncomment instead if using local Ruby Gem
 
 # 2. Appearance Skin

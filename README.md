@@ -1,4 +1,5 @@
-# Projet / Mission : Mes Observations sur des concepts politiques, économiques et philosophiques
+# Projet / Mission : 
+## 1- Mes Observations sur des concepts politiques, économiques et philosophiques
 
 1- Libéralisme
 

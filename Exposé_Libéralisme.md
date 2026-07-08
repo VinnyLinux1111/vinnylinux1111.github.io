@@ -12,7 +12,7 @@ title: MES OBSERVATIONS SUR LE LIBÉRALISME
 * [Conclusion](#conclusion)
 * [Références](#références)
 
-[[TOC]]
+[TOC]
 
 ## Introduction
 

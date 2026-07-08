@@ -6,7 +6,7 @@ title: MES OBSERVATIONS SUR LE LIBÉRALISME
 
 * [Introduction](#Introduction)
 * [Qu'est-ce que le libéralisme ?](#quest-ce-que-le-libéralisme-)
-* * [Le libéralisme écononomique](#le-libéralisme-économique)
+* [Le libéralisme écononomique](#le-libéralisme-économique)
 * [Au Québec et au Canada (et ailleurs)](#au-québec-et-au-canada-et-ailleurs)
 * [Discussion](#discussion)
 * [Conclusion](#conclusion)

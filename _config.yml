@@ -3,7 +3,7 @@
 # remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 
 title: "Bienvenue sur le site de Vinny1111"
-# description: Modernist is a theme for GitHub Pages.
+description: "Ici on discute de différents sujets philosophiques, politiques et économiques"
 show_downloads: false
 is_project_page: false
 theme: jekyll-theme-modernist # Uncomment instead if using local Ruby Gem

@@ -2,7 +2,7 @@
 title: MES OBSERVATIONS SUR LE LIBÉRALISME
 ---
 <head>
- <meta property="og:image" content=
+ <meta property="og:image" content="images/résumé_libéralisme_politique.png"
 </head>
 
 # Table des matières

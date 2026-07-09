@@ -2,6 +2,11 @@
 title: MES OBSERVATIONS SUR LE LIBÉRALISME
 ---
 
+<meta property="og:title" content="Your Project Title" />
+<meta property="og:description" content="A brief description of your site." />
+<meta property="og:image" content="https://vinnylinux1111.github.io" />
+<meta property="og:url" content="https://vinnylinux1111.github.io" />
+
 # Table des matières
 
 * [Introduction](#Introduction)

@@ -1,6 +1,9 @@
 ---
 title: MES OBSERVATIONS SUR LE LIBÉRALISME
 ---
+<head>
+ <meta property="og:image" content=
+</head>
 
 # Table des matières
 

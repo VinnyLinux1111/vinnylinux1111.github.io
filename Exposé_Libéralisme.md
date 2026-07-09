@@ -3,6 +3,9 @@ title: MES OBSERVATIONS SUR LE LIBÉRALISME
 ---
 <head>
  <meta property="og:image" content="https://vinnylinux1111.github.io/images/R%C3%A9alit%C3%A9%20et%20Civilisations.png"/>
+ <meta property="og:image:type" content="image/png">
+ <meta property="og:image:width" content="300">
+ <meta property="og:image:height" content="300">
 </head>
 
 # Table des matières
